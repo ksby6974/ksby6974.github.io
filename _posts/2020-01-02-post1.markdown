@@ -2,12 +2,12 @@
 layout: post
 title: post-sample
 date: 2020-01-02 19:20:23 +0900
-category: sample
+category: Datastructer
 ---
 # post-sample
 > Hello!
 
-This is code. 깃허브에서 내용 추가.
+This is code. 깃허브에서 내용 추가. 스크린샷.
 ```ruby
 print 'hello world'
 ```
