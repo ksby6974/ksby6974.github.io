@@ -11,9 +11,9 @@ gems: [jekyll-paginate]
 permalink:           pretty
 
 # Setup
-title:               제목
-tagline:             'A Hacker like jekyll theme'
-description:         'oonlab is crafted with <3 by ariestiyansyah.'
+title:               유상우
+tagline:             '유니티 국비'
+description:         '국비 수업 내용'
 url:                 http://naringu.oonlab.com
 baseurl:             /
 paginate:            7
