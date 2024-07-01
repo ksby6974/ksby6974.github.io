@@ -1,13 +1,13 @@
 ---
 layout: post
-title: post-sample
+title: test
 date: 2024-07-01 15:00:00 +0900
 category: sample
 ---
 # post-sample
-> Hello!
+> 제대로 나오나요?
 
 추가된 내용.
 ```ruby
-print 'hello world'
+print '한글 텍스트입니까'
 ```
