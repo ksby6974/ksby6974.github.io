@@ -1,88 +1,52 @@
-# Naringu
+<h1>Flexton is an ultra-minimalist and responsive theme for Jekyll</h1>
 
+<p>Flexton created especially for those who appreciate minimalism and functionality.</p>
+<p>Amazing flexibility with pleasant colors and custom design makes Flexton a simple theme, suitable for almost any blog.</p>
 
-Naringu is dark jekyll theme that provide fully furnished jekyll setup, come with contact form, #6DD HTML color schema, and more features. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+<h2>Demo</h2>
 
-![Naringu](images/screenshot-1.png)
-![Naringu](images/screenshot-2.png)
-![Naringu](images/screenshot-3.png)
-![Naringu](images/screenshot-4.png)
+Check the theme in action [Demo](https://flexton.netlify.com/)
 
-## Contents
+![Page preview](https://github.com/artemsheludko/flexton/blob/master/images/preview.png?raw=true)
 
-- [Usage](#usage)
- - [Sidebar menu](#sidebar-menu)
-  - [Themes](#themes)
-  - [Reverse layout](#reverse-layout)
-  - [Contact Form](#contact-form)
-  - [Comments](#comments)
-- [Development](#development)
-  - [Author](#author)
-  - [Contributors](#contributors)
-- [License](#license)
+<h2>Features</h2>
 
+<ul>
+	<li>100% responsive and clean theme</li>
+ 	<li>Optimized for mobile devices</li>
+	<li>Valid HTML5 code</li>
+	<li>Included site search</li>
+	<li>Contact Page</li>
+	<li>Post sharing</li>
+	<li>Supports Mail Chimp Subscriber</li>
+	<li>Supports Disqus Comments</li>
+	<li>Social Media Profiles</li>
+	<li>Contact Form - FormsPree</li>
+	<li>Evil Icons</li>
+	<li>Google Fonts</li>
+</ul>
 
-## Usage
+<h2>Credits</h2>
 
-Just download and start the Jekyll server or fork this repo.
+<p>I have used the following scripts, fonts or other files as listed.</p>
 
-### Sidebar menu
+<ul>
+  <li><a href="https://fonts.google.com/">Google Fonts</a> (Volkhov, Open Sans).</li>
+  <li><a href="http://evil-icons.io/">Evil Icons</a></li>
+  <li><a href="http://fitvidsjs.com/">FitVids.js</a></li>
+  <li><a href="https://jquery.com/">jQuery.com</a></li>
+  <li><a href="https://github.com/christian-fei/Simple-Jekyll-Search">Simple-Jekyll-Search</a></li>
+  <li>Preview Images form <a href="https://unsplash.com/">unsplash.com</a>, <a href="https://www.pexels.com/">pexels.com</a></li>
+</ul>
 
-Create a list of nav links in the sidebar by assigning each Jekyll page the correct layout in the page's [front-matter](http://jekyllrb.com/docs/frontmatter/).
+<h2>Deployment</h2>
 
-```
----
-layout: page
-title: About
----
-```
+To run the theme locally, navigate to the theme directory and run `bundle install` to install the dependencies, then run `jekyll serve` or `bundle exec serve` to start the Jekyll server.
 
-**Why require a specific layout?** Jekyll will return *all* pages, including the `atom.xml`, and with an alphabetical sort order. To ensure the first link is *Home*, we exclude the `index.html` page from this list by specifying the `page` 
+I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll website.
 
+<h2>Buy me a coffee</h2>
 
-### Reverse layout
-
-Reverse the page orientation with a single class.
-
-```html
-<body class="layout-reverse">
-  ...
-</body>
-```
-### Contact Form
-
-Using formspree to enable contact form in static site.
-
-Go a head `contact/index.html` just change the email in the code
-
-```html
-<form action="http://formspree.io/youremail@yourdomain.com" role="form" method="POST">
-```
-
-### Comments
-
-Using [disqus](http://disqus.com/) to enable comments in static site.
-
-Just edit variable `disqus` in `_config.yml` to your disqus link.
-
-## Development
-
-Naringu come with two branches :.
-
-- `master` for active development. 
-- `gh-pages` for preview of Naringu
-
-### Author
-
-**Rizky Ariestiyansyah**
-- <https://github.com/ariestiyansyah>
-- <https://twitter.com/ariestiyansyah>
-
-### Contributors
-
-**Gildásio Júnior** - *a.k.a. @gjuniioor*
-- https://github.com/gjuniioor
-
-## License
-
-Open sourced under the [MIT license](LICENSE.md).
+<p>If you want to show your appreciation, buy me one <a href="https://www.buymeacoffee.com/artemsheludko" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a> ! Every five cups of coffee and a new theme for Jekyll is ready 😋</p>
+<p>Either way, your support is a way to thank me ❤️</p>
+<p align="center"><b>Thank you for your support!</b></p>
