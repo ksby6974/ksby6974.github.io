@@ -11,7 +11,7 @@ gems: [jekyll-paginate]
 permalink:           pretty
 
 # Setup
-title:               Naringu
+title:               제목
 tagline:             'A Hacker like jekyll theme'
 description:         'oonlab is crafted with <3 by ariestiyansyah.'
 url:                 http://naringu.oonlab.com
@@ -20,16 +20,16 @@ paginate:            7
 
 # About/contact
 author:
-  name:              Rizky Ariestiyansyah
-  url:               https://twitter.com/ariestiyansyah
-  email:             ariestiyansyah.rizky@gmail.com
+  name:              ksby6974
+  url:               https://twitter.com/ksby6974
+  email:             ksby6974@gmail.com
 
 # Custom vars
 version:             2.0
 
 # Social Media
-github:				http://github.com/ariestiyansyah
-twitter:			http://twitter.com/ariestiyansyah
+github:				http://github.com/ksby6974
+twitter:			http://twitter.com/ksby6974
 disqus:             testnaringu
 
 # Theme Author (Please don't edit this line cause of MIT LICENSE rules)
