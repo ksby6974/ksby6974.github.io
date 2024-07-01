@@ -7,7 +7,7 @@ category: sample
 # post-sample
 > Hello!
 
-This is code
+³»¿ë.
 ```ruby
 print 'hello world'
 ```
